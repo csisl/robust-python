@@ -3,19 +3,19 @@ Notes and examples from reading O'Reilly's Robust Python book.
 
 ## Chapter 1 - Collections
 
-[Robust Python](chapter01_intro/robust_python.md)
-Python [Collections](chapter01_intro/collections.md)
+[Robust Python](chapter01_collections/robust_python.md)
+Python [Collections](chapter01_collections/collections.md)
 
-  * [list](chapter01_intro/collections.md#List)
-  * [String](chapter01_intro/collections.md#String)
-  * [Generator](chapter01_intro/collections.md#Generator)
-  * [Tuple](chapter01_intro/collections.md#Tuple)
-  * [Set](chapter01_intro/collections.md#Set)
-  * [Dictionary](chapter01_intro/collections.md#Dictionary)
-  * [frozenset](chapter01_intro/collections.md#frozenset)
-  * [OrderedDict](chapter01_intro/collections.md#OrderedDict)
-  * [defaultdict](chapter01_intro/collections.md#defaultdict)
-  * [Counter](chapter01_intro/collections.md#Counter)
+  * [list](chapter01_collections/collections.md#List)
+  * [String](chapter01_collections/collections.md#String)
+  * [Generator](chapter01_collections/collections.md#Generator)
+  * [Tuple](chapter01_collections/collections.md#Tuple)
+  * [Set](chapter01_collections/collections.md#Set)
+  * [Dictionary](chapter01_collections/collections.md#Dictionary)
+  * [frozenset](chapter01_collections/collections.md#frozenset)
+  * [OrderedDict](chapter01_collections/collections.md#OrderedDict)
+  * [defaultdict](chapter01_collections/collections.md#defaultdict)
+  * [Counter](chapter01_collections/collections.md#Counter)
 
 
 ## Chapter 2 - 3 Types and Type annotations
